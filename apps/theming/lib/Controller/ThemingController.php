@@ -32,7 +32,7 @@
 
 namespace OCA\Theming\Controller;
 
-use OC\Files\AppData\Factory;
+
 use OC\Template\SCSSCacher;
 use OCA\Theming\ThemingDefaults;
 use OCP\AppFramework\Controller;
@@ -48,7 +48,7 @@ use OCP\Files\NotFoundException;
 use OCP\Files\NotPermittedException;
 use OCP\IConfig;
 use OCP\IL10N;
-use OCP\ILogger;
+
 use OCP\IRequest;
 use OCA\Theming\Util;
 use OCP\ITempManager;

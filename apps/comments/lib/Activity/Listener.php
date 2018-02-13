@@ -31,7 +31,7 @@ use OCP\Files\IRootFolder;
 use OCP\Files\Node;
 use OCP\IUser;
 use OCP\IUserSession;
-use OCP\Share;
+
 use OCP\Share\IShareHelper;
 
 class Listener {

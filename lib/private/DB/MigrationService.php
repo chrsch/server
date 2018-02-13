@@ -31,8 +31,8 @@ use OCP\AppFramework\QueryException;
 use OCP\IDBConnection;
 use OCP\Migration\IMigrationStep;
 use OCP\Migration\IOutput;
-use Doctrine\DBAL\Schema\Column;
-use Doctrine\DBAL\Schema\Table;
+
+
 use Doctrine\DBAL\Types\Type;
 
 class MigrationService {

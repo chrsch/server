@@ -35,7 +35,7 @@
 
 namespace OCA\Files_Sharing\Controller;
 
-use OC\Files\Node\Folder;
+
 use OC_Files;
 use OC_Util;
 use OCA\FederatedFileSharing\FederatedShareProvider;
